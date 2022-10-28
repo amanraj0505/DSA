@@ -14,8 +14,8 @@ int main(){
         for(int k = 1;k<=count1*2;++k){
             cout<<'*';
         }
-        for(int m = n-i+1;m>=1;--m){
-            cout<<m;
+        for(int l = n-i+1;l>=1;--l){
+            cout<<l;
         }
         count1++;
         cout<<endl;
